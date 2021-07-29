@@ -1,0 +1,23 @@
+{
+  "name": "jest-clean-reporter",
+  "version": "1.0.0",
+  "description": "Jest reporter without traces",
+  "main": "jest-clean-reporter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrFoxPro/jest-clean-reporter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrFoxPro/jest-clean-reporter/issues"
+  },
+  "homepage": "https://github.com/MrFoxPro/jest-clean-reporter#readme",
+  "peerDependencies": {
+    "jest": "~27.0.6",
+    "jest-util": "~27.0.6"
+  }
+}
